@@ -10,7 +10,7 @@ This project aims to develop a machine learning model that can analyze key vehic
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b531064a-684a-4837-be4b-fea8c670d712" width="500"/>
+  <img src="Untitled design.png" width="500"/>
 </p>
 
 
