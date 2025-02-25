@@ -10,7 +10,7 @@ This project aims to develop a machine learning model that can analyze key vehic
 
 
 <p align="center">
-  <img src="Untitled design.png" width="500"/>
+  <img src="https://github.com/dhruvyellanki19/project_images/blob/d101c6e1483876897e9c240c3ddd4011e465e753/car_price_prediction%20image.png" width="500"/>
 </p>
 
 
